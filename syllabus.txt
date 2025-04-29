@@ -1,0 +1,24 @@
+1. Sem 1
+    a. Proessional  comm and skills - 0
+    b. CN and communicaitons  - 4
+    c. DSA - 5
+    d. OS and concepts - 4
+    e. DBMS -5
+2. Sem 2
+    a. OOPs -5
+    b. Data analytics -4
+    c. SE - 3
+    d. Applied machine learning - 5
+    e. pattern recognisation - 3
+3. sem 3
+    a. Internship -3
+    b. web technologies - 5
+    c. essential of reseach Design - 2
+    d. computor vision -5
+    e. applied deep learning-3
+    f. applications of NLP-4
+    g. term paper - 2
+4. sem 4 
+    a. Robotics -4
+    b. Operations Research-4
+    c. project -10
